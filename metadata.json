@@ -1,0 +1,6 @@
+{
+  "name": "শিক্ষাদর্পণ - বাংলা মাধ্যম স্টাডি পোর্টাল",
+  "description": "ক্লাস ৫ থেকে ১০ পর্যন্ত বাংলা মাধ্যমের সম্পূর্ণ নোটস, পরীক্ষা প্রস্তুতি সাজেশন, প্র্যাকটিস প্রশ্ন সেট ও স্টাডি আপডেট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
